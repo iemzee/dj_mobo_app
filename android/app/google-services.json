@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50278507595",
+    "project_id": "mobo-app-e4f66",
+    "storage_bucket": "mobo-app-e4f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50278507595:android:55fcb63a9a71dedc3f19ce",
+        "android_client_info": {
+          "package_name": "com.brixton.mobo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50278507595-dm6sj8q2nk0ph8utgkk8oe6ppv6tfpls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brixton.mobo_app",
+            "certificate_hash": "e211c2128dcda54d66c85f8629a8b8ce6d8e69be"
+          }
+        },
+        {
+          "client_id": "50278507595-m3icas3t0ielep7quocf93oeok8jef95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWYeiWVPuhw3GIA-hpsnkpfUmGS9zEME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50278507595-m3icas3t0ielep7quocf93oeok8jef95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
